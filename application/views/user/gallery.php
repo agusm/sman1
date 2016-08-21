@@ -21,7 +21,7 @@
                 <ol class="breadcrumb">
                     <li><a href="<?=site_url()?>">Home</a></li>
                     <li><a href="<?=site_url('gallery')?>">Gallery</a></li>
-                    <li class="active">Album</li>
+                    <li class="active">Gambar</li>
                 </ol>
 
             </div><!-- breadcrumbs end -->
