@@ -1,5 +1,6 @@
 <div id="k-body"><!-- content wrapper -->
 <h1></h1>
+<h2></h2>
 
     <div class="container"><!-- container -->
 
